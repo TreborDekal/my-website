@@ -6,6 +6,6 @@ Updates made on master on GitHub before rebase
 
 On demo branch
 
-## Repository Pupose
+## Repository Purpose
 
 This file is just a readme file
