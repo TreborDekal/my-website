@@ -8,6 +8,4 @@ On demo branch
 
 ## Repository Pupose
 
-This will be a change that conflicts
-with whatever is on the remote side.
-This siedited locally.
+This file is just a readme file
